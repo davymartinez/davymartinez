@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/davymartinez/overview](https://app.netlify.com/teams/davymartinez/overview)
+- 👨‍💻 All of my projects are available at [https://davymartinez.com/projects/](https://davymartinez.com/projects/)
 
 - 📝 I regularly write articles on [https://davymartinez.com](https://davymartinez.com)
 
