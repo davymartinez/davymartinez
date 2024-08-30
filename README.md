@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davymartinez" alt="davymartinez" /></a> </p>
 
-- 🔭 I’m currently working as an SEO Content Specialist at [https://graphite.io](Graphite Growth).
+- 🔭 I’m currently working as an SEO Content Specialist at [Graphite Growth](https://graphite.io).
 
 - 👨‍💻 All of my projects are available at [https://davymartinez.com/projects](https://davymartinez.com/projects)
 
