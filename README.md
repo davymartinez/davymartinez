@@ -5,17 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davymartinez" alt="davymartinez" /></a> </p>
 
-- 🔭 I’m currently working on [the Frontend Learning Path of Scrimba](https://scrimba.com/learn/frontend)
-
-- 🌱 I’m currently learning **Astro**
-
-- 👯 I’m looking to collaborate on **nice open-source projects**
-
-- 🤝 I’m looking for help with **backend development**
+- 🔭 I’m currently working as an SEO Content Specialist at [https://graphite.io](Graphite Growth).
 
 - 👨‍💻 All of my projects are available at [https://davymartinez.com/projects](https://davymartinez.com/projects)
 
-- 📝 I regularly write articles on [https://davymartinez.com](https://davymartinez.com)
+- 📝 Some times, I write articles on [https://davymartinez.com](https://davymartinez.com)
 
 - 💬 Ask me about **HTML, CSS, and JS**
 
